@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6141
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Eric_Peet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15590#Rough-Stone-Monuments-and-Their-Builders
 gutenberg_issued: '2005-04-08'
 gutenberg_type: Text
 identifiers:
